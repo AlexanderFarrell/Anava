@@ -1,0 +1,1 @@
+The universe hosts worlds. It provides a runtime, as well as a container, for game worlds.
