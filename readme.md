@@ -12,7 +12,40 @@ Anava is more circumstantial, rather than systematic. A character in the game ma
 
 ### Goals
 
-Anava is a successor of the engine constructed of a prototype engine for my other project, Buried Peace. The link to such can be found [here](https://github.com/AlexanderFarrell/buried-peace-concept). 
+(Todo)
+
+### Prototyping
+
+- Anava's concept of verb based gameplay has been demonstrated in my other game, [Ordered Energy](https://morphsight.itch.io/orderedenergy), in which up to 63 AI soldiers can compete against one another in a web browser game at a time.
+- Anava is a successor of the engine constructed of a prototype engine for my other project, Buried Peace. The source code can be viewed publicly [here](https://github.com/AlexanderFarrell/buried-peace-concept).
+
+### Cross-platform
+
+The following targeted platforms have run successfully in tests. More platforms may be added in the future. Platforms on this list may run.
+
+#### By OS
+
+- [x] MacOS x86
+- [ ] MacOS ARM
+- [ ] Windows x86
+- [ ] Windows ARM
+- [ ] Linux (Ubuntu) x86
+- [ ] Linux (Ubuntu) ARM
+- [ ] Linux (Debian) x86
+- [ ] Linux (Debian) ARM
+
+#### By Graphics API
+
+- [x] OpenGL (3.3)
+- [ ] Metal  (2)
+- [ ] Vulkan
+
+#### By Supported Input Device
+
+- [x] Keyboard 
+- [x] Mouse
+- [ ] Game Controller
+- [ ] Touch
 
 ### Simplicity
 
