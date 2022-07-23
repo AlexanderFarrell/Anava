@@ -12,7 +12,7 @@ Anava is more circumstantial, rather than systematic. A character in the game ma
 
 ### Goals
 
-Anava is a successor of the engine constructed of a prototype engine for my other project, Buried Peace. The link to such can be found here. 
+Anava is a successor of the engine constructed of a prototype engine for my other project, Buried Peace. The link to such can be found [here](https://github.com/AlexanderFarrell/buried-peace-concept). 
 
 ### Simplicity
 
