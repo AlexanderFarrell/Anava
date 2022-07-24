@@ -8,7 +8,7 @@ To get started with Anava, include the "anava.h" header, create a Game instance,
 
 | Item                               | Description                                                           |
 |------------------------------------|-----------------------------------------------------------------------|
-| [app](./app)                       | Houses the engine and the game it runs.                               |
+| [app](./app)                       | Runs a game using an engine.                                          |
 | [io](./io)                         | Bridge between the player and universe.                               |
 | [player](./player)                 | The player and their device.                                          |
 | [universe](./universe)             | The game environment.                                                 |

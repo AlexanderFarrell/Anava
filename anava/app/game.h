@@ -8,16 +8,21 @@
 #include <string>
 #include "game_state.h"
 
-// Represents a game which can be played.
+// A game which can be played.
 class Game {
 public:
+    /// The name of the game.
     std::string name;
+
+    /// The GameState to run on start.
     GameState* start_state;
 
-public:
+    /// Creates a new Game to play.
+    /// @param name [in] The name of the game.
+    /// @param start_state [in] The GameState to run on start.
     Game(std::string name, GameState *start_state);
 
-private:
+    /// Destroys the game.
     ~Game();
 };
 

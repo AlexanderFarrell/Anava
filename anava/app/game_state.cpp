@@ -10,6 +10,7 @@ std::string GameState::get_name() {
 }
 
 void GameState::on_start(Engine *engine) {
+    //TODO: Take this out of this virtual call, and place into the switch game state function.
     this->world = new World();
     engine->universe->focused = this->world;
     engine->universe->add_world(this->world);
@@ -19,6 +20,7 @@ void GameState::on_start(Engine *engine) {
 }
 
 void GameState::on_end(Engine *engine) {
+    //TODO: Take this out of this virtual call, and place into the switch game state function.
     engine->universe->remove_world(this->world);
     this->world->toEnd = true;
 }

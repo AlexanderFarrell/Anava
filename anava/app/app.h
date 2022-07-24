@@ -5,11 +5,10 @@
 #ifndef ANAVA_T_THREE_APP_H
 #define ANAVA_T_THREE_APP_H
 
-
 #include "game_state.h"
 #include "../io/input/input.h"
 
-// Holds main parts of the application statically.
+// Runs a game using an engine. Provides convenient ways to access the engine.
 class App {
 public:
     static Engine* engine_app;
