@@ -23,6 +23,7 @@ Engine::~Engine() {
 void Engine::update(long * last) {
     this->player->update(this->io->input);
 //    this->input->update();
+    this->io->update(this->player->window);
     this->universe->update();
 //    this->output->update(this->player);
 
