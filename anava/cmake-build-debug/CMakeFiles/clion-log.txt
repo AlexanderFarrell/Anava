@@ -1,0 +1,20 @@
+"/Applications/CLion 2.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Applications/CLion 2.app/Contents/bin/ninja/mac/ninja" -DCMAKE_C_COMPILER=/usr/bin/clang -G Ninja -S /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava -B /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug
+
+-- FINDING OpenGL
+-- OpenGL was found. 
+
+-- FINDING SDL2
+-- SDL2 was found
+
+-- GLM: Version 0.9.9.9
+CMake Warning at /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/builds/cmake/FindHarfBuzz.cmake:99 (message):
+  Required version (2.0.0) is higher than found version ()
+Call Stack (most recent call first):
+  /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/CMakeLists.txt:253 (find_package)
+
+
+-- Checking for module 'bzip2'
+--   No package 'bzip2' found
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug
