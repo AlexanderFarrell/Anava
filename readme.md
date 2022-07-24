@@ -2,28 +2,40 @@
 
 Anava is a game engine for rich, dynamic game worlds. It attempts to make game characters more intelligent, increase player agency, and make games faster to create.
 
-**Version**: 0.1.0 (In Development)
+Anava is currently in development.
+
+**Version**: 0.1.0
 
 ## Navigation
 
-| Item             | Description             |
-|------------------|-------------------------|
-| [docs](./docs)   | Documentation for Anava |
- | [anava](./anava) | Source code for Anava   |
+| Item             | Description   |
+|------------------|---------------|
+| [docs](./docs)   | Documentation |
+ | [anava](./anava) | Source code   |
 ## Overview
 
-Anava seeks to simplify and optimize game logic by instancing 'verbs', which begin and end as the game runs. This is different than an ECS system, which runs pieces of an update loop on all components of a particular type. 
+Using Anava, one can build game worlds with 'Nouns' and 'Verbs'. A character begins and ends actions, such as running, talking, or jumping. A character can be tired, then no longer tired. 
 
-Anava is more circumstantial, rather than systematic. A character in the game may begin walking, and then stop walking. A vehicle in a game world may be powered on, and then powered off.
+Allowing for 'nouns' in a game to change overtime with gameplay, instead of using a more rigid 'component' approach, allows for worlds to become more dynamic and volatile. Gameplay can become more based on events rather than systems.
+
+Anava also builds procedural generation and layers of abstraction into the engine. This allows for faster workflows, as well as more dynamic content.
 
 ### Goals
 
 (Todo)
 
+### Concept
+
+Anava seeks to simplify and optimize game logic by instancing 'verbs', which begin and end as the game runs. This is different than an ECS system, which runs pieces of an update loop on all components of a particular type.
+
+Anava is more circumstantial, rather than systematic. A character in the game may begin walking, and then stop walking. A vehicle in a game world may be powered on, and then powered off.
+
 ### Prototyping
 
 - Anava's concept of verb based gameplay has been demonstrated in my other game, [Ordered Energy](https://morphsight.itch.io/orderedenergy), in which up to 63 AI soldiers can compete against one another in a web browser game at a time.
+![Ordered Energy Screenshot](https://static.itch.io/images/loader.gif)
 - Anava is a successor of the engine constructed of a prototype engine for my other project, Buried Peace. The source code can be viewed publicly [here](https://github.com/AlexanderFarrell/buried-peace-concept).
+![Buried Peace Screenshot](https://github.com/AlexanderFarrell/buried-peace-concept/blob/master/Screenshots/IMG_4324.PNG?raw=true)
 
 ### Cross-platform
 
