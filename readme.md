@@ -14,6 +14,11 @@ Anava is currently in development.
 |------------------|---------------|
 | [anava](./anava) | Source code   |
 | [docs](./docs)   | Documentation |
+
+## Installation
+
+Please see [installation](./docs/installation.md).
+
 ## Overview
 
 Using Anava, one can build game worlds with 'Nouns' and 'Verbs'. A character begins and ends actions, such as running, talking, or jumping. A character can be tired, then no longer tired. 
