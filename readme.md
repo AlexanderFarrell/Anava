@@ -32,7 +32,7 @@ Anava is more circumstantial, rather than systematic. A character in the game ma
 
 ### Prototyping
 
-- Anava's concept of verb based gameplay has been demonstrated in my other game, [Ordered Energy](https://morphsight.itch.io/orderedenergy), in which up to 63 AI soldiers can compete against one another in a web browser game at a time.
+- Anava's concept of verb based gameplay has been demonstrated in my other game, [Ordered Energy](https://img.itch.zone/aW1hZ2UvODA1NTA2LzQ1ODI1NDEucG5n/original/nvwnb8.png), in which up to 63 AI soldiers can compete against one another in a web browser game at a time.
 ![Ordered Energy Screenshot](https://static.itch.io/images/loader.gif)
 - Anava is a successor of the engine constructed of a prototype engine for my other project, Buried Peace. The source code can be viewed publicly [here](https://github.com/AlexanderFarrell/buried-peace-concept).
 ![Buried Peace Screenshot](https://github.com/AlexanderFarrell/buried-peace-concept/blob/master/Screenshots/IMG_4324.PNG?raw=true)
