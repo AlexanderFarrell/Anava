@@ -17,8 +17,10 @@ Anava is currently in development.
 
 ## Quick Links
 
-- [Installation](./docs/installation.md).
+- [Installation](./docs/installation.md)
 - [Supported Platforms](./docs/schedule/platforms.md)
+- [Philosophy](./docs/philosophy.md)
+- Get Started (In Progress)
 
 ## Overview
 
