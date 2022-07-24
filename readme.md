@@ -1,15 +1,15 @@
 # Anava
 
-Anava is a 'verb based' game engine. Its goal is to both simplify and optimize game logic.
+Anava is a game engine for rich, dynamic game worlds. It attempts to make game characters more intelligent, increase player agency, and make games faster to create.
 
 **Version**: 0.1.0 (In Development)
 
 ## Navigation
 
-| Item           | Description             |
-|----------------|-------------------------|
-| [docs](./docs) | Documentation for Anava |
- | [src](./anava) | Source code for Anava   |
+| Item             | Description             |
+|------------------|-------------------------|
+| [docs](./docs)   | Documentation for Anava |
+ | [anava](./anava) | Source code for Anava   |
 ## Overview
 
 Anava seeks to simplify and optimize game logic by instancing 'verbs', which begin and end as the game runs. This is different than an ECS system, which runs pieces of an update loop on all components of a particular type. 
