@@ -2,7 +2,7 @@
 
 The following is an overview of supported platforms for Anava. 
 
-Platforms checked off are supported. Platforms not checked off are in process of being supported.
+Platforms checked off are supported. Platforms not checked off are in process of being supported. This list is subject to expansion in the future.
 
 ## By OS
 
