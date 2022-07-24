@@ -1,5 +1,7 @@
 # Anava
 
+![Logo](./docs/logo_hi.png)
+
 Anava is a game engine for rich, dynamic game worlds. It attempts to make game characters more intelligent, increase player agency, and make games faster to create.
 
 Anava is currently in development.
