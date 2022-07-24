@@ -7,14 +7,10 @@
 Engine::Engine(const std::string& app_name) {
     this->player = new Player(app_name);
     this->universe = new Universe();
-//    this->input = new Input();
-//    this->output = new Output(this->player);
     this->io = new IO(this->player->window);
 }
 
 Engine::~Engine() {
-//    delete this->output;
-//    delete this->input;
     delete this->io;
     delete this->universe;
     delete this->player;
@@ -22,10 +18,8 @@ Engine::~Engine() {
 
 void Engine::update(long * last) {
     this->player->update(this->io->input);
-//    this->input->update();
     this->io->update(this->player->window);
     this->universe->update();
-//    this->output->update(this->player);
 
     //Delay Time
     long current = current_timestamp();

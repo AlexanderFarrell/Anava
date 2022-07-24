@@ -23,12 +23,6 @@ public:
     // Bridges the player and universe.
     IO* io;
 
-//    // Handles input from the player.
-//    Input * input;
-//
-//    // Handles output (visuals, audio, etc) to the player.
-//    Output * output;
-
     // Creates a new game engine instance given an application app_name.
     explicit Engine(const std::string& app_name);
 

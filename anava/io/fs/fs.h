@@ -5,9 +5,11 @@
 #ifndef ANAVA_FS_H
 #define ANAVA_FS_H
 
+#include <string>
 
 class FS {
-
+    std::string game_path;
+    std::string engine_path;
 };
 
 
