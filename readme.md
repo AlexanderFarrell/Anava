@@ -15,9 +15,10 @@ Anava is currently in development.
 | [anava](./anava) | Source code   |
 | [docs](./docs)   | Documentation |
 
-## Installation
+## Quick Links
 
-Please see [installation](./docs/installation.md).
+- [Installation](./docs/installation.md).
+- [Supported Platforms](./docs/schedule/platforms.md)
 
 ## Overview
 

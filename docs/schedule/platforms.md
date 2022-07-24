@@ -1,4 +1,8 @@
-# By OS
+# Supported Platforms
+
+The following is an overview of supported platforms for Anava. Any platform on this list is currently in development or building, and this list is likely to expand in the future.
+
+## By OS
 
 - [x] MacOS x86
 - [ ] MacOS ARM
@@ -9,13 +13,13 @@
 - [ ] Linux (Debian) x86
 - [ ] Linux (Debian) ARM
 
-# By Graphics API
+## By Graphics API
 
 - [x] OpenGL (3.3)
 - [ ] Metal  (2)
 - [ ] Vulkan
 
-# By Supported Input Device
+## By Supported Input Device
 
 - [x] Keyboard
 - [x] Mouse
