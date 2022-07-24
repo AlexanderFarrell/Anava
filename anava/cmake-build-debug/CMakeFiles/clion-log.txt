@@ -1,5 +1,5 @@
 "/Applications/CLion 2.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Applications/CLion 2.app/Contents/bin/ninja/mac/ninja" -DCMAKE_C_COMPILER=/usr/bin/clang -G Ninja -S /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava -B /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug
-
+Building Anava - Version 0.1.0
 -- FINDING OpenGL
 -- OpenGL was found. 
 

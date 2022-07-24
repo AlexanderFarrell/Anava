@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.22)
 project(Anava)
 
-Message("")
+Message("Building Anava - Version 0.1.0")
 
 Message(STATUS "FINDING OpenGL")
 FIND_PACKAGE(OpenGL REQUIRED)
@@ -42,5 +42,5 @@ endif ()
 
 TARGET_LINK_LIBRARIES(${PROJECT_NAME} ${SDL2_image_LIBRARIES} ${SDL2_mixer_LIBRARIES} ${OpenGL_LIBRARY} ${SDL2_LIBRARIES} ${SDL_CXX_FLAGS} freetype glm)
 #add_subdirectory(/Users/alexanderfarrell/Developer/Frameworks/cglm-master [binary_dir])
-add_subdirectory(~/Developer/Frameworks/glm-master glm)
-add_subdirectory(~/Developer/Frameworks/freetype-2.12.1 freetype)
+add_subdirectory(/Users/alexanderfarrell/Developer/Frameworks/glm-master glm)
+add_subdirectory(/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1 freetype)
