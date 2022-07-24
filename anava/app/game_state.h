@@ -27,7 +27,6 @@ public:
     /// Destroys a game state.
     ~GameState();
 
-protected:
     World* world;
 };
 
