@@ -1,10 +1,8 @@
 # Overview
 
-Main source folder for Anava. 
+Main source folder for Anava. Contains the source for App, Engine and the CMakeLists.txt file. 
 
-Contains App, Engine and the CMakeLists.txt file. 
-
-To get started with Anava, create a Game instance, and call run_game(), passing that Game instance. 
+To get started with Anava, include the "anava.h" header, create a Game instance, and call run_game()!
 
 ## Navigation
 
