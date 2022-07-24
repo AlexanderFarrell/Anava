@@ -20,8 +20,6 @@ Allowing for 'nouns' in a game to change overtime with gameplay, instead of usin
 
 Anava also builds procedural generation and layers of abstraction into the engine. This allows for faster workflows, as well as more dynamic content.
 
-
-
 ### Prototyping
 
 - Anava's concept of verb based gameplay has been demonstrated in my other game, [Ordered Energy](https://img.itch.zone/aW1hZ2UvODA1NTA2LzQ1ODI1NDEucG5n/original/nvwnb8.png), in which up to 63 AI soldiers can compete against one another in a web browser game at a time.
