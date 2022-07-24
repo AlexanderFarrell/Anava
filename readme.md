@@ -25,9 +25,11 @@ Anava also builds procedural generation and layers of abstraction into the engin
 ### Prototyping
 
 - Anava's concept of verb based gameplay has been demonstrated in my other game, [Ordered Energy](https://img.itch.zone/aW1hZ2UvODA1NTA2LzQ1ODI1NDEucG5n/original/nvwnb8.png), in which up to 63 AI soldiers can compete against one another in a web browser game at a time.
-![Ordered Energy Screenshot](https://static.itch.io/images/loader.gif)
+
+[//]: # (![Ordered Energy Screenshot]&#40;https://static.itch.io/images/loader.gif&#41;)
 - Anava is a successor of the engine constructed of a prototype engine for my other project, Buried Peace. The source code can be viewed publicly [here](https://github.com/AlexanderFarrell/buried-peace-concept).
-![Buried Peace Screenshot](https://github.com/AlexanderFarrell/buried-peace-concept/blob/master/Screenshots/IMG_4324.PNG?raw=true)
+
+[//]: # (![Buried Peace Screenshot]&#40;https://github.com/AlexanderFarrell/buried-peace-concept/blob/master/Screenshots/IMG_4324.PNG?raw=true&#41;)
 
 [//]: # (### Cross-platform)
 
