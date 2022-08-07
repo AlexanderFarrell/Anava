@@ -8,8 +8,11 @@
 #include <string>
 
 class FS {
+public:
     std::string game_path;
-    std::string engine_path;
+//    std::string engine_path;
+
+    FS();
 };
 
 

@@ -11,7 +11,6 @@
 class World {
 private:
     Noun* headNoun;
-    Progression* headProgression;
 public:
     bool active;
     int id;
@@ -25,9 +24,6 @@ public:
     void Save(const std::string& filename);
 
     Noun * create_noun();
-    Progression * create_progression(void (*on_call)(Noun::State*, Noun*));
-    Progression * create_progression(Noun::State* subject, void (*on_call)(Noun::State*, Noun*));
-    Progression * create_progression(Noun::State* subject, void (*on_call)(Noun::State*, Noun*), Noun* valence);
 };
 
 

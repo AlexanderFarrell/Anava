@@ -45,12 +45,12 @@ Button::Button(func_call on) {
 void Button::Begin() {
     State::Begin();
     this->location = noun->get_state<Location>();
-    this->p = App::engine_app->universe->focused->create_progression(this, check_click);
+    this->p = App::engine_app->universe->create_progression(this, check_click);
 }
 
 void Button::End() {
     State::End();
     this->location = nullptr;
-//    delete this->p;
+    delete this->p;
 //    App::engine_app->universe->focused.
 }

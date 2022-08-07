@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug"
+			"value" : "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build"
 		},
 		{
 			"name" : "Anava_IS_TOP_LEVEL",
@@ -167,7 +167,7 @@
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "Choose the type of build, options are: None Debug Release RelWithDebInfo MinSizeRel ..."
+					"value" : "No help, variable specified on the command line."
 				}
 			],
 			"type" : "STRING",
@@ -183,7 +183,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug"
+			"value" : "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -207,7 +207,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "22"
+			"value" : "23"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -219,7 +219,23 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "3"
+			"value" : "1"
+		},
+		{
+			"name" : "CMAKE_COLOR_MAKEFILE",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Enable/Disable color output during build."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "ON"
 		},
 		{
 			"name" : "CMAKE_COMMAND",
@@ -231,7 +247,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CLion 2.app/Contents/bin/cmake/mac/bin/cmake"
+			"value" : "/usr/local/Cellar/cmake/3.23.1/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -243,7 +259,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CLion 2.app/Contents/bin/cmake/mac/bin/cpack"
+			"value" : "/usr/local/Cellar/cmake/3.23.1/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -255,7 +271,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CLion 2.app/Contents/bin/cmake/mac/bin/ctest"
+			"value" : "/usr/local/Cellar/cmake/3.23.1/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -267,11 +283,11 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Library/Developer/CommandLineTools/usr/bin/c++"
+			"value" : "/usr/bin/clang++"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS",
@@ -366,7 +382,7 @@
 					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "UNINITIALIZED",
+			"type" : "FILEPATH",
 			"value" : "/usr/bin/clang"
 		},
 		{
@@ -466,6 +482,18 @@
 			"value" : "CMAKE_DLLTOOL-NOTFOUND"
 		},
 		{
+			"name" : "CMAKE_EDIT_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to cache edit program executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "/usr/local/Cellar/cmake/3.23.1/bin/ccmake"
+		},
+		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
 			"properties" : 
 			[
@@ -562,16 +590,12 @@
 			"properties" : 
 			[
 				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
 					"name" : "HELPSTRING",
-					"value" : "Enable/Disable output of compile commands during generation."
+					"value" : "No help, variable specified on the command line."
 				}
 			],
 			"type" : "BOOL",
-			"value" : ""
+			"value" : "TRUE"
 		},
 		{
 			"name" : "CMAKE_EXTRA_GENERATOR",
@@ -595,7 +619,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "Ninja"
+			"value" : "Unix Makefiles"
 		},
 		{
 			"name" : "CMAKE_GENERATOR_INSTANCE",
@@ -950,12 +974,16 @@
 			"properties" : 
 			[
 				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
 					"name" : "HELPSTRING",
-					"value" : "make program"
+					"value" : "Path to a program."
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/Applications/CLion 2.app/Contents/bin/ninja/mac/ninja"
+			"value" : "/usr/bin/make"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1283,7 +1311,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CLion 2.app/Contents/bin/cmake/mac/share/cmake-3.22"
+			"value" : "/usr/local/Cellar/cmake/3.23.1/share/cmake"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -3135,7 +3163,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype"
+			"value" : "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype"
 		},
 		{
 			"name" : "freetype_IS_TOP_LEVEL",
@@ -3183,7 +3211,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/glm"
+			"value" : "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/glm"
 		},
 		{
 			"name" : "glm_IS_TOP_LEVEL",

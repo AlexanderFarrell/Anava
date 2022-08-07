@@ -1,0 +1,432 @@
+[
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/engine.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/engine.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/engine.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/app/game.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/app/game.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/app/game.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/input/input.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/input/input.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/input/input.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/player/player.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/player/player.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/player/player.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/universe/universe.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/universe.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/universe.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/app/game_state.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/app/game_state.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/app/game_state.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/player/window.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/player/window.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/player/window.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/input/keyboard.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/input/keyboard.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/input/keyboard.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/input/mouse.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/input/mouse.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/input/mouse.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/audio/audio.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/audio/audio.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/audio/audio.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/visual/visual.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/visual.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/visual.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/visual/color.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/color.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/color.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/util/data/pool.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/data/pool.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/data/pool.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/visual/drawable.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/drawable.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/drawable.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/universe/world.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/world.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/world.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/visual/camera.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/camera.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/camera.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/visual/material.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/material.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/material.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/visual/mesh.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/mesh.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/mesh.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/visual/shader.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/shader.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/shader.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/visual/uniform.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/uniform.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/uniform.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/universe/states/location.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/states/location.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/states/location.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/util/data/swizzle.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/data/swizzle.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/data/swizzle.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/visual/orthographic.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/orthographic.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/orthographic.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/visual/perspective.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/perspective.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/perspective.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/anava.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/anava.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/anava.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/app/app.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/app/app.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/app/app.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/universe/noun.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/noun.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/noun.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/util/data/type_map.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/data/type_map.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/data/type_map.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/visual/texture.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/texture.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/texture.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/util/creation/GeometryCreation.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/creation/GeometryCreation.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/creation/GeometryCreation.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/util/creation/TextureFilters.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/creation/TextureFilters.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/creation/TextureFilters.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/visual/font.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/font.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/font.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/util/creation/UICreation.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/creation/UICreation.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/creation/UICreation.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/universe/states/text.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/states/text.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/states/text.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/audio/song.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/audio/song.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/audio/song.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/audio/sound.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/audio/sound.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/audio/sound.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/ui/Label.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/ui/Label.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/ui/Label.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/ui/Button.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/ui/Button.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/ui/Button.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/universe/progression.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/progression.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/progression.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/universe/states/terrain.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/states/terrain.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/states/terrain.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/ui/UI.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/ui/UI.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/ui/UI.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/network/network.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/network/network.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/network/network.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/io.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/io.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/io.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master -g -std=gnu++2a -o CMakeFiles/Anava.dir/io/fs/fs.cpp.o -c /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/fs/fs.cpp",
+  "file": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/fs/fs.cpp"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/autofit/autofit.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/autofit/autofit.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/autofit/autofit.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftbase.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftbase.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftbase.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftbbox.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftbbox.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftbbox.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftbdf.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftbdf.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftbdf.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftbitmap.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftbitmap.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftbitmap.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftcid.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftcid.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftcid.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftfstype.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftfstype.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftfstype.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftgasp.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftgasp.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftgasp.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftglyph.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftglyph.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftglyph.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftgxval.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftgxval.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftgxval.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftinit.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftinit.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftinit.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftmm.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftmm.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftmm.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftotval.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftotval.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftotval.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftpatent.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftpatent.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftpatent.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftpfr.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftpfr.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftpfr.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftstroke.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftstroke.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftstroke.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftsynth.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftsynth.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftsynth.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/fttype1.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/fttype1.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/fttype1.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftwinfnt.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftwinfnt.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftwinfnt.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/bdf/bdf.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/bdf/bdf.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/bdf/bdf.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/bzip2/ftbzip2.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/bzip2/ftbzip2.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/cache/ftcache.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/cache/ftcache.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/cache/ftcache.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/cff/cff.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/cff/cff.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/cff/cff.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/cid/type1cid.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/cid/type1cid.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/cid/type1cid.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/gzip/ftgzip.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/gzip/ftgzip.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/gzip/ftgzip.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/lzw/ftlzw.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/lzw/ftlzw.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/lzw/ftlzw.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/pcf/pcf.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/pcf/pcf.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/pcf/pcf.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/pfr/pfr.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/pfr/pfr.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/pfr/pfr.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/psaux/psaux.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/psaux/psaux.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/psaux/psaux.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/pshinter/pshinter.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/pshinter/pshinter.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/pshinter/pshinter.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/psnames/psnames.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/psnames/psnames.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/psnames/psnames.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/raster/raster.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/raster/raster.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/raster/raster.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/sdf/sdf.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/sdf/sdf.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/sdf/sdf.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/sfnt/sfnt.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/sfnt/sfnt.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/sfnt/sfnt.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/smooth/smooth.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/smooth/smooth.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/smooth/smooth.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/svg/svg.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/svg/svg.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/svg/svg.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/truetype/truetype.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/truetype/truetype.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/truetype/truetype.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/type1/type1.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/type1/type1.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/type1/type1.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/type42/type42.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/type42/type42.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/type42/type42.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/winfonts/winfnt.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/winfonts/winfnt.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/winfonts/winfnt.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/builds/unix/ftsystem.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/builds/unix/ftsystem.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/builds/unix/ftsystem.c"
+},
+{
+  "directory": "/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype",
+  "command": "/usr/bin/clang -DFT2_BUILD_LIBRARY -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/build/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include -g -fvisibility=hidden -o CMakeFiles/freetype.dir/src/base/ftdebug.c.o -c /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftdebug.c",
+  "file": "/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftdebug.c"
+}
+]
