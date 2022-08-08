@@ -71,3 +71,15 @@ int Window::getHeight() const {
 FullscreenState Window::getFullscreenState() const {
     return fullscreen_state;
 }
+
+void Window::set_fullscreen_state(FullscreenState state) {
+    this->fullscreen_state = state;
+    switch (state) {
+        case Fullscreen:
+            SDL_SetWindowFullscreen(this->sdl_window, SDL_WINDOW_FULLSCREEN);
+            break;
+        case Windowed:
+            SDL_SetWindowFullscreen(this->sdl_window, 0);
+            break;
+    }
+}

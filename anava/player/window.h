@@ -32,6 +32,7 @@ public:
     int getHeight() const;
 
     FullscreenState getFullscreenState() const;
+    void set_fullscreen_state(FullscreenState state);
 
     void on_resize(SDL_WindowEvent* event);
 

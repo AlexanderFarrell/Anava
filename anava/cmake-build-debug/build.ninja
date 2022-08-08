@@ -52,8 +52,6 @@ build CMakeFiles/Anava.dir/engine.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexan
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/app/game.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/app/game.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/app/game.cpp.o.d
@@ -61,8 +59,6 @@ build CMakeFiles/Anava.dir/app/game.cpp.o: CXX_COMPILER__Anava_Debug /Users/alex
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/app
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/input/input.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/input/input.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/input/input.cpp.o.d
@@ -70,8 +66,6 @@ build CMakeFiles/Anava.dir/io/input/input.cpp.o: CXX_COMPILER__Anava_Debug /User
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/input
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/player/player.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/player/player.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/player/player.cpp.o.d
@@ -79,8 +73,6 @@ build CMakeFiles/Anava.dir/player/player.cpp.o: CXX_COMPILER__Anava_Debug /Users
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/player
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/universe/universe.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/universe.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/universe/universe.cpp.o.d
@@ -88,8 +80,6 @@ build CMakeFiles/Anava.dir/universe/universe.cpp.o: CXX_COMPILER__Anava_Debug /U
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/universe
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/app/game_state.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/app/game_state.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/app/game_state.cpp.o.d
@@ -97,8 +87,6 @@ build CMakeFiles/Anava.dir/app/game_state.cpp.o: CXX_COMPILER__Anava_Debug /User
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/app
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/player/window.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/player/window.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/player/window.cpp.o.d
@@ -106,8 +94,6 @@ build CMakeFiles/Anava.dir/player/window.cpp.o: CXX_COMPILER__Anava_Debug /Users
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/player
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/input/keyboard.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/input/keyboard.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/input/keyboard.cpp.o.d
@@ -115,8 +101,6 @@ build CMakeFiles/Anava.dir/io/input/keyboard.cpp.o: CXX_COMPILER__Anava_Debug /U
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/input
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/input/mouse.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/input/mouse.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/input/mouse.cpp.o.d
@@ -124,8 +108,6 @@ build CMakeFiles/Anava.dir/io/input/mouse.cpp.o: CXX_COMPILER__Anava_Debug /User
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/input
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/audio/audio.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/audio/audio.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/audio/audio.cpp.o.d
@@ -133,8 +115,6 @@ build CMakeFiles/Anava.dir/io/audio/audio.cpp.o: CXX_COMPILER__Anava_Debug /User
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/audio
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/visual/visual.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/visual.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/visual/visual.cpp.o.d
@@ -142,8 +122,6 @@ build CMakeFiles/Anava.dir/io/visual/visual.cpp.o: CXX_COMPILER__Anava_Debug /Us
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/visual
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/visual/color.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/color.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/visual/color.cpp.o.d
@@ -151,8 +129,6 @@ build CMakeFiles/Anava.dir/io/visual/color.cpp.o: CXX_COMPILER__Anava_Debug /Use
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/visual
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/util/data/pool.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/data/pool.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/util/data/pool.cpp.o.d
@@ -160,8 +136,6 @@ build CMakeFiles/Anava.dir/util/data/pool.cpp.o: CXX_COMPILER__Anava_Debug /User
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/util/data
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/visual/drawable.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/drawable.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/visual/drawable.cpp.o.d
@@ -169,8 +143,6 @@ build CMakeFiles/Anava.dir/io/visual/drawable.cpp.o: CXX_COMPILER__Anava_Debug /
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/visual
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/universe/world.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/world.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/universe/world.cpp.o.d
@@ -178,8 +150,6 @@ build CMakeFiles/Anava.dir/universe/world.cpp.o: CXX_COMPILER__Anava_Debug /User
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/universe
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/visual/camera.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/camera.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/visual/camera.cpp.o.d
@@ -187,8 +157,6 @@ build CMakeFiles/Anava.dir/io/visual/camera.cpp.o: CXX_COMPILER__Anava_Debug /Us
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/visual
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/visual/material.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/material.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/visual/material.cpp.o.d
@@ -196,8 +164,6 @@ build CMakeFiles/Anava.dir/io/visual/material.cpp.o: CXX_COMPILER__Anava_Debug /
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/visual
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/visual/mesh.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/mesh.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/visual/mesh.cpp.o.d
@@ -205,8 +171,6 @@ build CMakeFiles/Anava.dir/io/visual/mesh.cpp.o: CXX_COMPILER__Anava_Debug /User
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/visual
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/visual/shader.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/shader.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/visual/shader.cpp.o.d
@@ -214,8 +178,6 @@ build CMakeFiles/Anava.dir/io/visual/shader.cpp.o: CXX_COMPILER__Anava_Debug /Us
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/visual
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/visual/uniform.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/uniform.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/visual/uniform.cpp.o.d
@@ -223,8 +185,6 @@ build CMakeFiles/Anava.dir/io/visual/uniform.cpp.o: CXX_COMPILER__Anava_Debug /U
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/visual
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/universe/states/location.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/states/location.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/universe/states/location.cpp.o.d
@@ -232,8 +192,6 @@ build CMakeFiles/Anava.dir/universe/states/location.cpp.o: CXX_COMPILER__Anava_D
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/universe/states
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/util/data/swizzle.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/data/swizzle.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/util/data/swizzle.cpp.o.d
@@ -241,8 +199,6 @@ build CMakeFiles/Anava.dir/util/data/swizzle.cpp.o: CXX_COMPILER__Anava_Debug /U
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/util/data
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/visual/orthographic.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/orthographic.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/visual/orthographic.cpp.o.d
@@ -250,8 +206,6 @@ build CMakeFiles/Anava.dir/io/visual/orthographic.cpp.o: CXX_COMPILER__Anava_Deb
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/visual
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/visual/perspective.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/perspective.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/visual/perspective.cpp.o.d
@@ -259,8 +213,6 @@ build CMakeFiles/Anava.dir/io/visual/perspective.cpp.o: CXX_COMPILER__Anava_Debu
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/visual
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/anava.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/anava.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/anava.cpp.o.d
@@ -268,8 +220,6 @@ build CMakeFiles/Anava.dir/anava.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexand
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/app/app.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/app/app.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/app/app.cpp.o.d
@@ -277,8 +227,6 @@ build CMakeFiles/Anava.dir/app/app.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexa
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/app
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/universe/noun.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/noun.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/universe/noun.cpp.o.d
@@ -286,8 +234,6 @@ build CMakeFiles/Anava.dir/universe/noun.cpp.o: CXX_COMPILER__Anava_Debug /Users
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/universe
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/util/data/type_map.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/data/type_map.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/util/data/type_map.cpp.o.d
@@ -295,8 +241,6 @@ build CMakeFiles/Anava.dir/util/data/type_map.cpp.o: CXX_COMPILER__Anava_Debug /
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/util/data
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/visual/texture.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/texture.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/visual/texture.cpp.o.d
@@ -304,8 +248,6 @@ build CMakeFiles/Anava.dir/io/visual/texture.cpp.o: CXX_COMPILER__Anava_Debug /U
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/visual
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/util/creation/GeometryCreation.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/creation/GeometryCreation.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/util/creation/GeometryCreation.cpp.o.d
@@ -313,8 +255,6 @@ build CMakeFiles/Anava.dir/util/creation/GeometryCreation.cpp.o: CXX_COMPILER__A
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/util/creation
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/util/creation/TextureFilters.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/creation/TextureFilters.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/util/creation/TextureFilters.cpp.o.d
@@ -322,8 +262,6 @@ build CMakeFiles/Anava.dir/util/creation/TextureFilters.cpp.o: CXX_COMPILER__Ana
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/util/creation
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/visual/font.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/visual/font.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/visual/font.cpp.o.d
@@ -331,8 +269,6 @@ build CMakeFiles/Anava.dir/io/visual/font.cpp.o: CXX_COMPILER__Anava_Debug /User
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/visual
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/util/creation/UICreation.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/creation/UICreation.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/util/creation/UICreation.cpp.o.d
@@ -340,8 +276,6 @@ build CMakeFiles/Anava.dir/util/creation/UICreation.cpp.o: CXX_COMPILER__Anava_D
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/util/creation
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/universe/states/text.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/states/text.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/universe/states/text.cpp.o.d
@@ -349,8 +283,6 @@ build CMakeFiles/Anava.dir/universe/states/text.cpp.o: CXX_COMPILER__Anava_Debug
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/universe/states
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/audio/song.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/audio/song.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/audio/song.cpp.o.d
@@ -358,8 +290,6 @@ build CMakeFiles/Anava.dir/io/audio/song.cpp.o: CXX_COMPILER__Anava_Debug /Users
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/audio
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/audio/sound.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/audio/sound.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/audio/sound.cpp.o.d
@@ -367,8 +297,6 @@ build CMakeFiles/Anava.dir/io/audio/sound.cpp.o: CXX_COMPILER__Anava_Debug /User
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/audio
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/ui/Label.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/ui/Label.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/ui/Label.cpp.o.d
@@ -376,8 +304,6 @@ build CMakeFiles/Anava.dir/io/ui/Label.cpp.o: CXX_COMPILER__Anava_Debug /Users/a
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/ui
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/ui/Button.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/ui/Button.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/ui/Button.cpp.o.d
@@ -385,8 +311,6 @@ build CMakeFiles/Anava.dir/io/ui/Button.cpp.o: CXX_COMPILER__Anava_Debug /Users/
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/ui
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/universe/progression.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/progression.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/universe/progression.cpp.o.d
@@ -394,8 +318,6 @@ build CMakeFiles/Anava.dir/universe/progression.cpp.o: CXX_COMPILER__Anava_Debug
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/universe
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/universe/states/terrain.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/universe/states/terrain.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/universe/states/terrain.cpp.o.d
@@ -403,8 +325,6 @@ build CMakeFiles/Anava.dir/universe/states/terrain.cpp.o: CXX_COMPILER__Anava_De
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/universe/states
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/ui/UI.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/ui/UI.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/ui/UI.cpp.o.d
@@ -412,8 +332,6 @@ build CMakeFiles/Anava.dir/io/ui/UI.cpp.o: CXX_COMPILER__Anava_Debug /Users/alex
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/ui
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/network/network.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/network/network.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/network/network.cpp.o.d
@@ -421,8 +339,6 @@ build CMakeFiles/Anava.dir/io/network/network.cpp.o: CXX_COMPILER__Anava_Debug /
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/network
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/io.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/io.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/io.cpp.o.d
@@ -430,8 +346,6 @@ build CMakeFiles/Anava.dir/io/io.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexand
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
 
 build CMakeFiles/Anava.dir/io/fs/fs.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/io/fs/fs.cpp || cmake_object_order_depends_target_Anava
   DEP_FILE = CMakeFiles/Anava.dir/io/fs/fs.cpp.o.d
@@ -439,8 +353,20 @@ build CMakeFiles/Anava.dir/io/fs/fs.cpp.o: CXX_COMPILER__Anava_Debug /Users/alex
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
   OBJECT_DIR = CMakeFiles/Anava.dir
   OBJECT_FILE_DIR = CMakeFiles/Anava.dir/io/fs
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
-  TARGET_PDB = libAnava.pdb
+
+build CMakeFiles/Anava.dir/util/assets/asset.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/assets/asset.cpp || cmake_object_order_depends_target_Anava
+  DEP_FILE = CMakeFiles/Anava.dir/util/assets/asset.cpp.o.d
+  FLAGS = -g -std=gnu++2a
+  INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
+  OBJECT_DIR = CMakeFiles/Anava.dir
+  OBJECT_FILE_DIR = CMakeFiles/Anava.dir/util/assets
+
+build CMakeFiles/Anava.dir/util/assets/asset_manager.cpp.o: CXX_COMPILER__Anava_Debug /Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/util/assets/asset_manager.cpp || cmake_object_order_depends_target_Anava
+  DEP_FILE = CMakeFiles/Anava.dir/util/assets/asset_manager.cpp.o.d
+  FLAGS = -g -std=gnu++2a
+  INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Frameworks/glm-master
+  OBJECT_DIR = CMakeFiles/Anava.dir
+  OBJECT_FILE_DIR = CMakeFiles/Anava.dir/util/assets
 
 
 # =============================================================================
@@ -450,14 +376,13 @@ build CMakeFiles/Anava.dir/io/fs/fs.cpp.o: CXX_COMPILER__Anava_Debug /Users/alex
 #############################################
 # Link the static library libAnava.a
 
-build libAnava.a: CXX_STATIC_LIBRARY_LINKER__Anava_Debug CMakeFiles/Anava.dir/engine.cpp.o CMakeFiles/Anava.dir/app/game.cpp.o CMakeFiles/Anava.dir/io/input/input.cpp.o CMakeFiles/Anava.dir/player/player.cpp.o CMakeFiles/Anava.dir/universe/universe.cpp.o CMakeFiles/Anava.dir/app/game_state.cpp.o CMakeFiles/Anava.dir/player/window.cpp.o CMakeFiles/Anava.dir/io/input/keyboard.cpp.o CMakeFiles/Anava.dir/io/input/mouse.cpp.o CMakeFiles/Anava.dir/io/audio/audio.cpp.o CMakeFiles/Anava.dir/io/visual/visual.cpp.o CMakeFiles/Anava.dir/io/visual/color.cpp.o CMakeFiles/Anava.dir/util/data/pool.cpp.o CMakeFiles/Anava.dir/io/visual/drawable.cpp.o CMakeFiles/Anava.dir/universe/world.cpp.o CMakeFiles/Anava.dir/io/visual/camera.cpp.o CMakeFiles/Anava.dir/io/visual/material.cpp.o CMakeFiles/Anava.dir/io/visual/mesh.cpp.o CMakeFiles/Anava.dir/io/visual/shader.cpp.o CMakeFiles/Anava.dir/io/visual/uniform.cpp.o CMakeFiles/Anava.dir/universe/states/location.cpp.o CMakeFiles/Anava.dir/util/data/swizzle.cpp.o CMakeFiles/Anava.dir/io/visual/orthographic.cpp.o CMakeFiles/Anava.dir/io/visual/perspective.cpp.o CMakeFiles/Anava.dir/anava.cpp.o CMakeFiles/Anava.dir/app/app.cpp.o CMakeFiles/Anava.dir/universe/noun.cpp.o CMakeFiles/Anava.dir/util/data/type_map.cpp.o CMakeFiles/Anava.dir/io/visual/texture.cpp.o CMakeFiles/Anava.dir/util/creation/GeometryCreation.cpp.o CMakeFiles/Anava.dir/util/creation/TextureFilters.cpp.o CMakeFiles/Anava.dir/io/visual/font.cpp.o CMakeFiles/Anava.dir/util/creation/UICreation.cpp.o CMakeFiles/Anava.dir/universe/states/text.cpp.o CMakeFiles/Anava.dir/io/audio/song.cpp.o CMakeFiles/Anava.dir/io/audio/sound.cpp.o CMakeFiles/Anava.dir/io/ui/Label.cpp.o CMakeFiles/Anava.dir/io/ui/Button.cpp.o CMakeFiles/Anava.dir/universe/progression.cpp.o CMakeFiles/Anava.dir/universe/states/terrain.cpp.o CMakeFiles/Anava.dir/io/ui/UI.cpp.o CMakeFiles/Anava.dir/io/network/network.cpp.o CMakeFiles/Anava.dir/io/io.cpp.o CMakeFiles/Anava.dir/io/fs/fs.cpp.o || freetype/libfreetyped.a
+build libAnava.a: CXX_STATIC_LIBRARY_LINKER__Anava_Debug CMakeFiles/Anava.dir/engine.cpp.o CMakeFiles/Anava.dir/app/game.cpp.o CMakeFiles/Anava.dir/io/input/input.cpp.o CMakeFiles/Anava.dir/player/player.cpp.o CMakeFiles/Anava.dir/universe/universe.cpp.o CMakeFiles/Anava.dir/app/game_state.cpp.o CMakeFiles/Anava.dir/player/window.cpp.o CMakeFiles/Anava.dir/io/input/keyboard.cpp.o CMakeFiles/Anava.dir/io/input/mouse.cpp.o CMakeFiles/Anava.dir/io/audio/audio.cpp.o CMakeFiles/Anava.dir/io/visual/visual.cpp.o CMakeFiles/Anava.dir/io/visual/color.cpp.o CMakeFiles/Anava.dir/util/data/pool.cpp.o CMakeFiles/Anava.dir/io/visual/drawable.cpp.o CMakeFiles/Anava.dir/universe/world.cpp.o CMakeFiles/Anava.dir/io/visual/camera.cpp.o CMakeFiles/Anava.dir/io/visual/material.cpp.o CMakeFiles/Anava.dir/io/visual/mesh.cpp.o CMakeFiles/Anava.dir/io/visual/shader.cpp.o CMakeFiles/Anava.dir/io/visual/uniform.cpp.o CMakeFiles/Anava.dir/universe/states/location.cpp.o CMakeFiles/Anava.dir/util/data/swizzle.cpp.o CMakeFiles/Anava.dir/io/visual/orthographic.cpp.o CMakeFiles/Anava.dir/io/visual/perspective.cpp.o CMakeFiles/Anava.dir/anava.cpp.o CMakeFiles/Anava.dir/app/app.cpp.o CMakeFiles/Anava.dir/universe/noun.cpp.o CMakeFiles/Anava.dir/util/data/type_map.cpp.o CMakeFiles/Anava.dir/io/visual/texture.cpp.o CMakeFiles/Anava.dir/util/creation/GeometryCreation.cpp.o CMakeFiles/Anava.dir/util/creation/TextureFilters.cpp.o CMakeFiles/Anava.dir/io/visual/font.cpp.o CMakeFiles/Anava.dir/util/creation/UICreation.cpp.o CMakeFiles/Anava.dir/universe/states/text.cpp.o CMakeFiles/Anava.dir/io/audio/song.cpp.o CMakeFiles/Anava.dir/io/audio/sound.cpp.o CMakeFiles/Anava.dir/io/ui/Label.cpp.o CMakeFiles/Anava.dir/io/ui/Button.cpp.o CMakeFiles/Anava.dir/universe/progression.cpp.o CMakeFiles/Anava.dir/universe/states/terrain.cpp.o CMakeFiles/Anava.dir/io/ui/UI.cpp.o CMakeFiles/Anava.dir/io/network/network.cpp.o CMakeFiles/Anava.dir/io/io.cpp.o CMakeFiles/Anava.dir/io/fs/fs.cpp.o CMakeFiles/Anava.dir/util/assets/asset.cpp.o CMakeFiles/Anava.dir/util/assets/asset_manager.cpp.o || freetype/libfreetyped.a
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = CMakeFiles/Anava.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/Anava.dir/Anava.pdb
   TARGET_FILE = libAnava.a
-  TARGET_PDB = libAnava.pdb
+  TARGET_PDB = Anava.a.dbg
 
 
 #############################################
@@ -770,8 +695,6 @@ build freetype/CMakeFiles/freetype.dir/src/autofit/autofit.c.o: C_COMPILER__free
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/autofit
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftbase.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftbase.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -780,8 +703,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftbase.c.o: C_COMPILER__freetype
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftbbox.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftbbox.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -790,8 +711,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftbbox.c.o: C_COMPILER__freetype
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftbdf.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftbdf.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -800,8 +719,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftbdf.c.o: C_COMPILER__freetype_
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftbitmap.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftbitmap.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -810,8 +727,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftbitmap.c.o: C_COMPILER__freety
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftcid.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftcid.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -820,8 +735,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftcid.c.o: C_COMPILER__freetype_
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftfstype.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftfstype.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -830,8 +743,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftfstype.c.o: C_COMPILER__freety
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftgasp.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftgasp.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -840,8 +751,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftgasp.c.o: C_COMPILER__freetype
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftglyph.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftglyph.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -850,8 +759,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftglyph.c.o: C_COMPILER__freetyp
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftgxval.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftgxval.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -860,8 +767,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftgxval.c.o: C_COMPILER__freetyp
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftinit.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftinit.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -870,8 +775,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftinit.c.o: C_COMPILER__freetype
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftmm.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftmm.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -880,8 +783,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftmm.c.o: C_COMPILER__freetype_D
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftotval.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftotval.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -890,8 +791,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftotval.c.o: C_COMPILER__freetyp
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftpatent.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftpatent.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -900,8 +799,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftpatent.c.o: C_COMPILER__freety
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftpfr.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftpfr.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -910,8 +807,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftpfr.c.o: C_COMPILER__freetype_
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftstroke.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftstroke.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -920,8 +815,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftstroke.c.o: C_COMPILER__freety
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftsynth.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftsynth.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -930,8 +823,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftsynth.c.o: C_COMPILER__freetyp
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/fttype1.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/fttype1.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -940,8 +831,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/fttype1.c.o: C_COMPILER__freetyp
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftwinfnt.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftwinfnt.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -950,8 +839,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftwinfnt.c.o: C_COMPILER__freety
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/bdf/bdf.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/bdf/bdf.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -960,8 +847,6 @@ build freetype/CMakeFiles/freetype.dir/src/bdf/bdf.c.o: C_COMPILER__freetype_Deb
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/bdf
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/bzip2/ftbzip2.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -970,8 +855,6 @@ build freetype/CMakeFiles/freetype.dir/src/bzip2/ftbzip2.c.o: C_COMPILER__freety
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/bzip2
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/cache/ftcache.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/cache/ftcache.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -980,8 +863,6 @@ build freetype/CMakeFiles/freetype.dir/src/cache/ftcache.c.o: C_COMPILER__freety
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/cache
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/cff/cff.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/cff/cff.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -990,8 +871,6 @@ build freetype/CMakeFiles/freetype.dir/src/cff/cff.c.o: C_COMPILER__freetype_Deb
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/cff
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/cid/type1cid.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/cid/type1cid.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1000,8 +879,6 @@ build freetype/CMakeFiles/freetype.dir/src/cid/type1cid.c.o: C_COMPILER__freetyp
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/cid
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/gzip/ftgzip.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/gzip/ftgzip.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1010,8 +887,6 @@ build freetype/CMakeFiles/freetype.dir/src/gzip/ftgzip.c.o: C_COMPILER__freetype
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/gzip
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/lzw/ftlzw.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/lzw/ftlzw.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1020,8 +895,6 @@ build freetype/CMakeFiles/freetype.dir/src/lzw/ftlzw.c.o: C_COMPILER__freetype_D
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/lzw
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/pcf/pcf.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/pcf/pcf.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1030,8 +903,6 @@ build freetype/CMakeFiles/freetype.dir/src/pcf/pcf.c.o: C_COMPILER__freetype_Deb
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/pcf
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/pfr/pfr.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/pfr/pfr.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1040,8 +911,6 @@ build freetype/CMakeFiles/freetype.dir/src/pfr/pfr.c.o: C_COMPILER__freetype_Deb
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/pfr
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/psaux/psaux.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/psaux/psaux.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1050,8 +919,6 @@ build freetype/CMakeFiles/freetype.dir/src/psaux/psaux.c.o: C_COMPILER__freetype
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/psaux
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/pshinter/pshinter.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/pshinter/pshinter.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1060,8 +927,6 @@ build freetype/CMakeFiles/freetype.dir/src/pshinter/pshinter.c.o: C_COMPILER__fr
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/pshinter
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/psnames/psnames.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/psnames/psnames.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1070,8 +935,6 @@ build freetype/CMakeFiles/freetype.dir/src/psnames/psnames.c.o: C_COMPILER__free
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/psnames
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/raster/raster.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/raster/raster.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1080,8 +943,6 @@ build freetype/CMakeFiles/freetype.dir/src/raster/raster.c.o: C_COMPILER__freety
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/raster
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/sdf/sdf.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/sdf/sdf.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1090,8 +951,6 @@ build freetype/CMakeFiles/freetype.dir/src/sdf/sdf.c.o: C_COMPILER__freetype_Deb
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/sdf
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/sfnt/sfnt.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/sfnt/sfnt.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1100,8 +959,6 @@ build freetype/CMakeFiles/freetype.dir/src/sfnt/sfnt.c.o: C_COMPILER__freetype_D
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/sfnt
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/smooth/smooth.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/smooth/smooth.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1110,8 +967,6 @@ build freetype/CMakeFiles/freetype.dir/src/smooth/smooth.c.o: C_COMPILER__freety
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/smooth
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/svg/svg.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/svg/svg.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1120,8 +975,6 @@ build freetype/CMakeFiles/freetype.dir/src/svg/svg.c.o: C_COMPILER__freetype_Deb
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/svg
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/truetype/truetype.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/truetype/truetype.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1130,8 +983,6 @@ build freetype/CMakeFiles/freetype.dir/src/truetype/truetype.c.o: C_COMPILER__fr
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/truetype
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/type1/type1.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/type1/type1.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1140,8 +991,6 @@ build freetype/CMakeFiles/freetype.dir/src/type1/type1.c.o: C_COMPILER__freetype
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/type1
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/type42/type42.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/type42/type42.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1150,8 +999,6 @@ build freetype/CMakeFiles/freetype.dir/src/type42/type42.c.o: C_COMPILER__freety
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/type42
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/winfonts/winfnt.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/winfonts/winfnt.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1160,8 +1007,6 @@ build freetype/CMakeFiles/freetype.dir/src/winfonts/winfnt.c.o: C_COMPILER__free
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/winfonts
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/builds/unix/ftsystem.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/builds/unix/ftsystem.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1170,8 +1015,6 @@ build freetype/CMakeFiles/freetype.dir/builds/unix/ftsystem.c.o: C_COMPILER__fre
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/builds/unix
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 build freetype/CMakeFiles/freetype.dir/src/base/ftdebug.c.o: C_COMPILER__freetype_Debug /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/src/base/ftdebug.c || cmake_object_order_depends_target_freetype
   DEFINES = -DFT2_BUILD_LIBRARY
@@ -1180,8 +1023,6 @@ build freetype/CMakeFiles/freetype.dir/src/base/ftdebug.c.o: C_COMPILER__freetyp
   INCLUDES = -I/usr/local/Cellar/sdl2/2.0.22/include/SDL2 -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include -I/Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/include -I/Users/alexanderfarrell/Developer/Projects/Tools/Anava/anava/cmake-build-debug/freetype/include/freetype/config -I/Library/Frameworks/Mono.framework/Headers -I/usr/local/Cellar/brotli/1.0.9/include
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   OBJECT_FILE_DIR = freetype/CMakeFiles/freetype.dir/src/base
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
-  TARGET_PDB = freetype/libfreetyped.pdb
 
 
 # =============================================================================
@@ -1196,9 +1037,8 @@ build freetype/libfreetyped.a: C_STATIC_LIBRARY_LINKER__freetype_Debug freetype/
   OBJECT_DIR = freetype/CMakeFiles/freetype.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = freetype/CMakeFiles/freetype.dir/freetype.pdb
   TARGET_FILE = freetype/libfreetyped.a
-  TARGET_PDB = freetype/libfreetyped.pdb
+  TARGET_PDB = freetyped.a.dbg
 
 
 #############################################
@@ -1338,14 +1178,14 @@ build glm/glm/all: phony
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/BasicConfigVersion-SameMajorVersion.cmake.in /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCCompiler.cmake.in /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCCompilerABI.c /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCXXCompiler.cmake.in /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCXXInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCompilerIdDetection.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDependentOption.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineCCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineCXXCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineCompileFeatures.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineCompilerABI.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineCompilerId.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineSystem.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeFindBinUtils.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeGenericSystem.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeParseImplicitIncludeInfo.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeParseImplicitLinkInfo.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeParseLibraryArchitecture.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakePushCheckState.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystem.cmake.in /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeTestCCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeTestCXXCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeTestCompilerCommon.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CPack.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CPackComponent.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CheckIncludeFile.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CheckSymbolExists.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/ADSP-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-C.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Borland-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Clang.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Cray-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/GHS-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/GNU.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/HP-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/IAR-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Intel-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/LCC-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/MSVC-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/PGI-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/PathScale-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/SCO-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/TI-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Watcom-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/XL-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindBZip2.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindOpenGL.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPNG.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPackageMessage.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPkgConfig.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindZLIB.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/GNUInstallDirs.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Internal/FeatureTesting.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin-Determine-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/UnixPaths.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/SelectLibraryConfigurations.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Templates/CPackConfig.cmake.in /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/CMakeLists.txt /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/builds/cmake/FindBrotliDec.cmake /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/builds/cmake/FindHarfBuzz.cmake /Users/alexanderfarrell/Developer/Frameworks/glm-master/CMakeLists.txt /Users/alexanderfarrell/Developer/Frameworks/glm-master/cmake/cmake_uninstall.cmake.in /Users/alexanderfarrell/Developer/Frameworks/glm-master/glm/CMakeLists.txt /usr/local/lib/cmake/SDL2/sdl2-config-version.cmake /usr/local/lib/cmake/SDL2/sdl2-config.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/BasicConfigVersion-SameMajorVersion.cmake.in /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCXXInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDependentOption.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeGenericSystem.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakePushCheckState.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CPack.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CPackComponent.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CheckIncludeFile.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CheckSymbolExists.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-C.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Clang.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/GNU.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindBZip2.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindOpenGL.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPNG.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPackageMessage.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPkgConfig.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindZLIB.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/GNUInstallDirs.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/UnixPaths.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/SelectLibraryConfigurations.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Templates/CPackConfig.cmake.in /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/CMakeLists.txt /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/builds/cmake/FindBrotliDec.cmake /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/builds/cmake/FindHarfBuzz.cmake /Users/alexanderfarrell/Developer/Frameworks/glm-master/CMakeLists.txt /Users/alexanderfarrell/Developer/Frameworks/glm-master/cmake/cmake_uninstall.cmake.in /Users/alexanderfarrell/Developer/Frameworks/glm-master/glm/CMakeLists.txt /usr/local/lib/cmake/SDL2/sdl2-config-version.cmake /usr/local/lib/cmake/SDL2/sdl2-config.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/BasicConfigVersion-SameMajorVersion.cmake.in /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCCompiler.cmake.in /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCCompilerABI.c /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCXXCompiler.cmake.in /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCXXInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCompilerIdDetection.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDependentOption.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineCCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineCXXCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineCompileFeatures.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineCompilerABI.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineCompilerId.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDetermineSystem.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeFindBinUtils.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeGenericSystem.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeParseImplicitIncludeInfo.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeParseImplicitLinkInfo.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeParseLibraryArchitecture.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakePushCheckState.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystem.cmake.in /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeTestCCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeTestCXXCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeTestCompilerCommon.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CPack.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CPackComponent.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CheckIncludeFile.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CheckSymbolExists.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/ADSP-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/ARMCC-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/ARMClang-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-C.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Borland-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Clang.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Cray-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/GHS-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/GNU-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/GNU.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/HP-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/IAR-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Intel-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/LCC-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/MSVC-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/NVHPC-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/PGI-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/PathScale-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/SCO-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/TI-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Watcom-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/XL-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/zOS-C-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindBZip2.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindOpenGL.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPNG.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPackageMessage.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPkgConfig.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindZLIB.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/GNUInstallDirs.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Internal/FeatureTesting.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin-Determine-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/UnixPaths.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/SelectLibraryConfigurations.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Templates/CPackConfig.cmake.in /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/CMakeLists.txt /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/builds/cmake/FindBrotliDec.cmake /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/builds/cmake/FindHarfBuzz.cmake /Users/alexanderfarrell/Developer/Frameworks/glm-master/CMakeLists.txt /Users/alexanderfarrell/Developer/Frameworks/glm-master/cmake/cmake_uninstall.cmake.in /Users/alexanderfarrell/Developer/Frameworks/glm-master/glm/CMakeLists.txt /usr/local/lib/cmake/SDL2/sdl2-config-version.cmake /usr/local/lib/cmake/SDL2/sdl2-config.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake: phony
+build ../CMakeLists.txt /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/BasicConfigVersion-SameMajorVersion.cmake.in /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCXXInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeDependentOption.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeGenericSystem.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakePackageConfigHelpers.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakePushCheckState.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CPack.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CPackComponent.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CheckIncludeFile.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/CheckSymbolExists.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-C.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/AppleClang-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/Clang.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Compiler/GNU.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindBZip2.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindOpenGL.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPNG.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPackageHandleStandardArgs.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPackageMessage.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindPkgConfig.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/FindZLIB.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/GNUInstallDirs.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-AppleClang-C.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-AppleClang-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang-C.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang-CXX.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Apple-Clang.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin-Initialize.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/Darwin.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/Platform/UnixPaths.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/SelectLibraryConfigurations.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Modules/WriteBasicConfigVersionFile.cmake /Applications/CLion$ 2.app/Contents/bin/cmake/mac/share/cmake-3.23/Templates/CPackConfig.cmake.in /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/CMakeLists.txt /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/builds/cmake/FindBrotliDec.cmake /Users/alexanderfarrell/Developer/Frameworks/freetype-2.12.1/builds/cmake/FindHarfBuzz.cmake /Users/alexanderfarrell/Developer/Frameworks/glm-master/CMakeLists.txt /Users/alexanderfarrell/Developer/Frameworks/glm-master/cmake/cmake_uninstall.cmake.in /Users/alexanderfarrell/Developer/Frameworks/glm-master/glm/CMakeLists.txt /usr/local/lib/cmake/SDL2/sdl2-config-version.cmake /usr/local/lib/cmake/SDL2/sdl2-config.cmake CMakeCache.txt CMakeFiles/3.23.2/CMakeCCompiler.cmake CMakeFiles/3.23.2/CMakeCXXCompiler.cmake CMakeFiles/3.23.2/CMakeSystem.cmake: phony
 
 
 #############################################

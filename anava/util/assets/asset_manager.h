@@ -10,7 +10,7 @@ class AssetManager {
 private:
 
 public:
-    
+
 };
 
 
