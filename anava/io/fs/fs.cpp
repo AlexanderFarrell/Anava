@@ -31,7 +31,7 @@ std::ofstream FS::get_out_filestream(const std::string &relative_path) const {
     return std::ofstream(this->game_path + "/" + relative_path);
 }
 
-std::unordered_map<std::string, std::string> FS::read_config(const std::string &relative_path) const {
+std::unordered_map<std::string, std::string> FS::load_config(const std::string &relative_path) const {
     auto ret_val = std::unordered_map<std::string, std::string>();
 
     auto fs = this->get_in_filestream(relative_path);
@@ -39,6 +39,9 @@ std::unordered_map<std::string, std::string> FS::read_config(const std::string &
     std::string line;
     while(std::getline(fs, line)) {
         auto size = line.size();
+        if ((size > 1 && line[0] == ';') || size < 3) {
+            continue;
+        }
         auto sep = line.find('=');
         std::string key = line.substr(0, sep);
         std::string value = line.substr(sep+1, size);
