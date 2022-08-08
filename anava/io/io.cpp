@@ -5,7 +5,6 @@
 #include "io.h"
 
 IO::IO(Window* window) {
-    std::cout << "Outputting\n";
     this->fs = new FS();
     this->input = new Input();
     this->visual = new Visual(window);

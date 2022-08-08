@@ -5,10 +5,10 @@
 #include "progression.h"
 
 Progression::~Progression() {
-    std::cout << "Deleting Progression: \n";
-    std::cout << "\tNext: " << this->next << "\n";
-    std::cout << "\tPrev: " << this->previous << "\n";
-    std::cout << "\tThis: " << this << "\n";
+//    std::cout << "Deleting Progression: \n";
+//    std::cout << "\tNext: " << this->next << "\n";
+//    std::cout << "\tPrev: " << this->previous << "\n";
+//    std::cout << "\tThis: " << this << "\n";
 
     if (this->previous != nullptr) {
         this->previous->next = this->next;

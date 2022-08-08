@@ -7,12 +7,14 @@
 #include <unistd.h>
 #include <iostream>
 #include <sstream>
+#include <dirent.h>
+#include <vector>
 
 FS::FS() {
     char path[200];
     getcwd(path, sizeof(path));
     this->game_path = std::string(path);
-    std::cout << "Game Path: " << this->game_path << "\n";
+//    std::cout << "Game Path: " << this->game_path << "\n";
 }
 
 std::string FS::load_as_string(const std::string& relative_path) const {
@@ -51,3 +53,35 @@ std::unordered_map<std::string, std::string> FS::load_config(const std::string &
     return ret_val;
 }
 
+array_sized<std::string> FS::get_mods_list() const {
+    std::vector<std::string> v;
+    char path[this->game_path.length()+10];
+    sprintf(path, "%s/Mods/", this->game_path.c_str());
+
+    DIR *dir = opendir(path);
+    struct dirent *entry = readdir(dir);
+
+    while (entry != nullptr) {
+//        std::cout << entry->d_name << " " << ((entry->d_type == DT_DIR) ? "Dir" : "Not Dir") << "\n";
+        if (entry->d_type == DT_DIR && entry->d_name[0] != '.') {
+            v.emplace_back(entry->d_name);
+        }
+        entry = readdir(dir);
+    }
+
+    int as_int = v.size();
+
+    closedir(dir);
+
+    auto * ret_val = new std::string[v.size()];
+
+    for (int i = 0; i < v.size(); ++i) {
+        ret_val[i] = v[i];
+    }
+
+    v.clear();
+    array_sized<std::string> r;
+    r.t = ret_val;
+    r.size = as_int;
+    return r;
+}
